@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Mockup &#8211; Info Quotient</title>
+	<atom:link href="https://2f79c46f.iq-static.pages.dev/portfolio-category/mockup/feed/" rel="self" type="application/rss+xml" />
+	<link>https://2f79c46f.iq-static.pages.dev/</link>
+	<description></description>
+	<lastBuildDate>Wed, 08 Dec 2021 10:24:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://2f79c46f.iq-static.pages.dev/wp-content/uploads/2024/10/cropped-Info-Quotient-Icon-32x32.png</url>
+	<title>Mockup &#8211; Info Quotient</title>
+	<link>https://2f79c46f.iq-static.pages.dev/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fram Museum</title>
+		<link>https://2f79c46f.iq-static.pages.dev/project/fram-museum-elementor/</link>
+					<comments>https://2f79c46f.iq-static.pages.dev/project/fram-museum-elementor/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2021 10:24:50 +0000</pubDate>
+				<guid isPermaLink="false">https://stage.clbthemes.com/demo1/?post_type=ohio_portfolio&#038;p=223615</guid>
+
+					<description><![CDATA[Let&#8217;s Collaborate Got a project? Get a Quote We’re&#160;a team of creatives&#160;who...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="223615" class="elementor elementor-223615">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-7c75bcfc elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c75bcfc" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-33095a21" data-id="33095a21" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-20d32aff elementor-widget elementor-widget-spacer" data-id="20d32aff" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-558f2d1e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="558f2d1e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7d849eae" data-id="7d849eae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6807ff8d elementor-widget elementor-widget-ohio_heading" data-id="6807ff8d" data-element_type="widget" data-widget_type="ohio_heading.default">
+				<div class="elementor-widget-container">
+			<div class="ohio-widget heading -left">
+
+    
+            <div class="subtitle">
+            Let's Collaborate        </div>
+
+        
+    
+    <h2 class="title">
+                Got a project?                    </h2>
+
+    
+    
+</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3af97c1e" data-id="3af97c1e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-746f7dbb elementor-widget elementor-widget-spacer" data-id="746f7dbb" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2e646e5 clb__alignment_reset elementor-widget elementor-widget-ohio_button" data-id="2e646e5" data-element_type="widget" data-widget_type="ohio_button.default">
+				<div class="elementor-widget-container">
+			
+<div class="ohio-widget-holder -right">
+    <a href="https://ohio.clbthemes.com/contact-us-ver4/" target="_blank" class="ohio-widget button -default" rel="noopener">
+        
+        
+        Get a Quote
+                    <i class="icon -right ion ion-md-arrow-forward" style=""></i>            </a>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3998f5d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3998f5d9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e15f5dd" data-id="e15f5dd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d7d37ef elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="d7d37ef" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2cc072a2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cc072a2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14ee239c" data-id="14ee239c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1c363105 elementor-widget elementor-widget-text-editor" data-id="1c363105" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>We’re <strong>a team of creatives</strong> who are excited about unique ideas and help fin-tech companies to <strong>create amazing identity</strong> by crafting top-notch UI/UX.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3435deeb elementor-widget elementor-widget-spacer" data-id="3435deeb" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6a3973d5" data-id="6a3973d5" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://2f79c46f.iq-static.pages.dev/project/fram-museum-elementor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stickers Pack</title>
+		<link>https://2f79c46f.iq-static.pages.dev/project/stickers-pack/</link>
+					<comments>https://2f79c46f.iq-static.pages.dev/project/stickers-pack/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 22 Oct 2019 08:21:49 +0000</pubDate>
+				<guid isPermaLink="false">https://ohio.colabr.io/?post_type=ohio_portfolio&#038;p=19297</guid>
+
+					<description><![CDATA[[vc_row full_width=&#8221;stretch_row&#8221; css=&#8221;.vc_custom_1627567340472{border-bottom-width: 1px !important;background-color: rgba(150,144,162,0.06) !important;*background-color: rgb(150,144,162) !important;border-bottom-color: rgba(99,93,111,0.08) !important;border-bottom-style: solid...]]></description>
+										<content:encoded><![CDATA[<p>[vc_row full_width=&#8221;stretch_row&#8221; css=&#8221;.vc_custom_1627567340472{border-bottom-width: 1px !important;background-color: rgba(150,144,162,0.06) !important;*background-color: rgb(150,144,162) !important;border-bottom-color: rgba(99,93,111,0.08) !important;border-bottom-style: solid !important;}&#8221; side_background_title_typo=&#8221;null&#8221; el_class=&#8221;clb__light_section&#8221;][vc_column][vc_empty_space height=&#8221;10vh&#8221; el_class=&#8221;clb__section_spacer&#8221;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243;][ohio_heading module_type_layout=&#8221;on_left&#8221; heading_type=&#8221;h2&#8243; subtitle_type_layout=&#8221;top_subtitle&#8221; title=&#8221;R290JTIwYSUyMHByb2plY3QlM0Y=&#8221; subtitle=&#8221;TGV0JTI3cyUyMENvbGxhYm9yYXRl&#8221; title_typo=&#8221;null&#8221; subtitle_typo=&#8221;{&#8220;font_size&#8220;:&#8220;0.9em&#8220;,&#8220;font_size_tablet&#8220;:&#8220;&#8220;,&#8220;font_size_mobile&#8220;:&#8220;&#8220;,&#8220;line_height&#8220;:&#8220;&#8220;,&#8220;line_height_tablet&#8220;:&#8220;&#8220;,&#8220;line_height_mobile&#8220;:&#8220;&#8220;,&#8220;letter_spacing&#8220;:&#8220;&#8220;,&#8220;letter_spacing_tablet&#8220;:&#8220;&#8220;,&#8220;letter_spacing_mobile&#8220;:&#8220;&#8220;,&#8220;color&#8220;:&#8220;&#8220;,&#8220;weight&#8220;:&#8220;500&#8220;,&#8220;style&#8220;:&#8220;uppercase&#8220;,&#8220;use_custom_font&#8220;:false}&#8221; header_typography=&#8221;null&#8221; subtitle_typography=&#8221;%7B%22font_size%22:%220.9em%22,%22weight%22:%22500%22,%22style%22:%22uppercase%22,%22use_custom_font%22:false%7D&#8221;][/vc_column_inner][vc_column_inner width=&#8221;1/2&#8243;][vc_empty_space height=&#8221;3vh&#8221;][ohio_button layout=&#8221;fill&#8221; shape_position=&#8221;right&#8221; icon_use=&#8221;1&#8243; icon_position=&#8221;right&#8221; button_type_layout=&#8221;fill&#8221; button_position=&#8221;right&#8221; button_use_icon=&#8221;1&#8243; button_title=&#8221;url:https%3A%2F%2Fohio.clbthemes.com%2Fcontact-us-ver4%2F|title:Get%20a%20Quote|target:_blank&#8221; button_title_typography=&#8221;null&#8221; css_class=&#8221;clb__alignment_reset&#8221; link=&#8221;url:https%3A%2F%2Fohio.clbthemes.com%2Fcontact-us-ver4%2F|title:Contact%20Us|target:_blank&#8221; title_typo=&#8221;null&#8221; title_typo_hover=&#8221;null&#8221;][/vc_column_inner][/vc_row_inner][vc_separator color=&#8221;custom&#8221; accent_color=&#8221;rgba(99,93,111,0.65)&#8221;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243;][ohio_text text_typo=&#8221;null&#8221;]<strong>We&#8217;re passionate creatives</strong> who are excited about unique ideas and help fin-tech companies to <strong>create amazing identities</strong> by crafting top-notch UI/UX design.[/ohio_text][vc_empty_space height=&#8221;10vh&#8221; el_class=&#8221;clb__section_spacer&#8221;][/vc_column_inner][vc_column_inner width=&#8221;1/2&#8243;][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://2f79c46f.iq-static.pages.dev/project/stickers-pack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gráfico Scenic</title>
+		<link>https://2f79c46f.iq-static.pages.dev/project/grafico-scenic/</link>
+					<comments>https://2f79c46f.iq-static.pages.dev/project/grafico-scenic/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Sep 2019 12:21:42 +0000</pubDate>
+				<guid isPermaLink="false">https://ohio.colabr.io/?post_type=ohio_portfolio&#038;p=19295</guid>
+
+					<description><![CDATA[[vc_row full_width=&#8221;stretch_row&#8221; css=&#8221;.vc_custom_1627567340472{border-bottom-width: 1px !important;background-color: rgba(150,144,162,0.06) !important;*background-color: rgb(150,144,162) !important;border-bottom-color: rgba(99,93,111,0.08) !important;border-bottom-style: solid...]]></description>
+										<content:encoded><![CDATA[<p>[vc_row full_width=&#8221;stretch_row&#8221; css=&#8221;.vc_custom_1627567340472{border-bottom-width: 1px !important;background-color: rgba(150,144,162,0.06) !important;*background-color: rgb(150,144,162) !important;border-bottom-color: rgba(99,93,111,0.08) !important;border-bottom-style: solid !important;}&#8221; side_background_title_typo=&#8221;null&#8221; el_class=&#8221;clb__light_section&#8221;][vc_column][vc_empty_space height=&#8221;10vh&#8221; el_class=&#8221;clb__section_spacer&#8221;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243;][ohio_heading module_type_layout=&#8221;on_left&#8221; heading_type=&#8221;h2&#8243; subtitle_type_layout=&#8221;top_subtitle&#8221; title=&#8221;R290JTIwYSUyMHByb2plY3QlM0Y=&#8221; subtitle=&#8221;TGV0JTI3cyUyMENvbGxhYm9yYXRl&#8221; title_typo=&#8221;null&#8221; subtitle_typo=&#8221;{&#8220;font_size&#8220;:&#8220;0.9em&#8220;,&#8220;font_size_tablet&#8220;:&#8220;&#8220;,&#8220;font_size_mobile&#8220;:&#8220;&#8220;,&#8220;line_height&#8220;:&#8220;&#8220;,&#8220;line_height_tablet&#8220;:&#8220;&#8220;,&#8220;line_height_mobile&#8220;:&#8220;&#8220;,&#8220;letter_spacing&#8220;:&#8220;&#8220;,&#8220;letter_spacing_tablet&#8220;:&#8220;&#8220;,&#8220;letter_spacing_mobile&#8220;:&#8220;&#8220;,&#8220;color&#8220;:&#8220;&#8220;,&#8220;weight&#8220;:&#8220;500&#8220;,&#8220;style&#8220;:&#8220;uppercase&#8220;,&#8220;use_custom_font&#8220;:false}&#8221; header_typography=&#8221;null&#8221; subtitle_typography=&#8221;%7B%22font_size%22:%220.9em%22,%22weight%22:%22500%22,%22style%22:%22uppercase%22,%22use_custom_font%22:false%7D&#8221;][/vc_column_inner][vc_column_inner width=&#8221;1/2&#8243;][vc_empty_space height=&#8221;3vh&#8221;][ohio_button layout=&#8221;fill&#8221; shape_position=&#8221;right&#8221; icon_use=&#8221;1&#8243; icon_position=&#8221;right&#8221; button_type_layout=&#8221;fill&#8221; button_position=&#8221;right&#8221; button_use_icon=&#8221;1&#8243; button_title=&#8221;url:https%3A%2F%2Fohio.clbthemes.com%2Fcontact-us-ver4%2F|title:Get%20a%20Quote|target:_blank&#8221; button_title_typography=&#8221;null&#8221; css_class=&#8221;clb__alignment_reset&#8221; link=&#8221;url:https%3A%2F%2Fohio.clbthemes.com%2Fcontact-us-ver4%2F|title:Contact%20Us|target:_blank&#8221; title_typo=&#8221;null&#8221; title_typo_hover=&#8221;null&#8221;][/vc_column_inner][/vc_row_inner][vc_separator color=&#8221;custom&#8221; accent_color=&#8221;rgba(99,93,111,0.65)&#8221;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243;][ohio_text text_typo=&#8221;null&#8221;]<strong>We&#8217;re passionate creatives</strong> who are excited about unique ideas and help fin-tech companies to <strong>create amazing identities</strong> by crafting top-notch UI/UX design.[/ohio_text][vc_empty_space height=&#8221;10vh&#8221; el_class=&#8221;clb__section_spacer&#8221;][/vc_column_inner][vc_column_inner width=&#8221;1/2&#8243;][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://2f79c46f.iq-static.pages.dev/project/grafico-scenic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Space Campaign</title>
+		<link>https://2f79c46f.iq-static.pages.dev/project/space-campaign/</link>
+					<comments>https://2f79c46f.iq-static.pages.dev/project/space-campaign/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 27 Sep 2019 12:20:38 +0000</pubDate>
+				<guid isPermaLink="false">https://ohio.colabr.io/?post_type=ohio_portfolio&#038;p=19291</guid>
+
+					<description><![CDATA[[vc_row full_width=&#8221;stretch_row&#8221; css=&#8221;.vc_custom_1627567340472{border-bottom-width: 1px !important;background-color: rgba(150,144,162,0.06) !important;*background-color: rgb(150,144,162) !important;border-bottom-color: rgba(99,93,111,0.08) !important;border-bottom-style: solid...]]></description>
+										<content:encoded><![CDATA[<p>[vc_row full_width=&#8221;stretch_row&#8221; css=&#8221;.vc_custom_1627567340472{border-bottom-width: 1px !important;background-color: rgba(150,144,162,0.06) !important;*background-color: rgb(150,144,162) !important;border-bottom-color: rgba(99,93,111,0.08) !important;border-bottom-style: solid !important;}&#8221; side_background_title_typo=&#8221;null&#8221; el_class=&#8221;clb__light_section&#8221;][vc_column][vc_empty_space height=&#8221;10vh&#8221; el_class=&#8221;clb__section_spacer&#8221;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243;][ohio_heading module_type_layout=&#8221;on_left&#8221; heading_type=&#8221;h2&#8243; subtitle_type_layout=&#8221;top_subtitle&#8221; title=&#8221;R290JTIwYSUyMHByb2plY3QlM0Y=&#8221; subtitle=&#8221;TGV0JTI3cyUyMENvbGxhYm9yYXRl&#8221; title_typo=&#8221;null&#8221; subtitle_typo=&#8221;{&#8220;font_size&#8220;:&#8220;0.9em&#8220;,&#8220;font_size_tablet&#8220;:&#8220;&#8220;,&#8220;font_size_mobile&#8220;:&#8220;&#8220;,&#8220;line_height&#8220;:&#8220;&#8220;,&#8220;line_height_tablet&#8220;:&#8220;&#8220;,&#8220;line_height_mobile&#8220;:&#8220;&#8220;,&#8220;letter_spacing&#8220;:&#8220;&#8220;,&#8220;letter_spacing_tablet&#8220;:&#8220;&#8220;,&#8220;letter_spacing_mobile&#8220;:&#8220;&#8220;,&#8220;color&#8220;:&#8220;&#8220;,&#8220;weight&#8220;:&#8220;500&#8220;,&#8220;style&#8220;:&#8220;uppercase&#8220;,&#8220;use_custom_font&#8220;:false}&#8221; header_typography=&#8221;null&#8221; subtitle_typography=&#8221;%7B%22font_size%22:%220.9em%22,%22weight%22:%22500%22,%22style%22:%22uppercase%22,%22use_custom_font%22:false%7D&#8221;][/vc_column_inner][vc_column_inner width=&#8221;1/2&#8243;][vc_empty_space height=&#8221;3vh&#8221;][ohio_button layout=&#8221;fill&#8221; shape_position=&#8221;right&#8221; icon_use=&#8221;1&#8243; icon_position=&#8221;right&#8221; button_type_layout=&#8221;fill&#8221; button_position=&#8221;right&#8221; button_use_icon=&#8221;1&#8243; button_title=&#8221;url:https%3A%2F%2Fohio.clbthemes.com%2Fcontact-us-ver4%2F|title:Get%20a%20Quote|target:_blank&#8221; button_title_typography=&#8221;null&#8221; css_class=&#8221;clb__alignment_reset&#8221; link=&#8221;url:https%3A%2F%2Fohio.clbthemes.com%2Fcontact-us-ver4%2F|title:Contact%20Us|target:_blank&#8221; title_typo=&#8221;null&#8221; title_typo_hover=&#8221;null&#8221;][/vc_column_inner][/vc_row_inner][vc_separator color=&#8221;custom&#8221; accent_color=&#8221;rgba(99,93,111,0.65)&#8221;][vc_row_inner][vc_column_inner width=&#8221;1/2&#8243;][ohio_text text_typo=&#8221;null&#8221;]<strong>We&#8217;re passionate creatives</strong> who are excited about unique ideas and help fin-tech companies to <strong>create amazing identities</strong> by crafting top-notch UI/UX design.[/ohio_text][vc_empty_space height=&#8221;10vh&#8221; el_class=&#8221;clb__section_spacer&#8221;][/vc_column_inner][vc_column_inner width=&#8221;1/2&#8243;][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://2f79c46f.iq-static.pages.dev/project/space-campaign/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
